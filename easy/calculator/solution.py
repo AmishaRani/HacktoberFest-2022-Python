@@ -1,5 +1,3 @@
-def solution():
-    pass
 def solution(num1, num2, op =""):
     if(op == "+"):
         n1 = str(num1)
